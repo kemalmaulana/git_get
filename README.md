@@ -1,16 +1,9 @@
-# git_get
+# GitGet Project
 
-A new Flutter project.
+Sebuah demonstrasi dari implementasi get state management dan integrasi dengan VCS ke Github.
 
-## Getting Started
+## Contoh Aplikasi
 
-This project is a starting point for a Flutter application.
+Berikut adalah hasil screenshot dari aplikasi yg sudah berjalan
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Contoh screenshot aplikasi](https://raw.githubusercontent.com/kemalmaulana/git_get/main/gitasset/screen_list.png "Contoh screenshot aplikasi")
